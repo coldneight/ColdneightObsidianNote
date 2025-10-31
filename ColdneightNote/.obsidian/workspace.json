@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "422d1590aebf5ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0f1ff544022993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0601c0d84160650f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c78707fc1931798",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbe5fbd89ba7ccc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71f63af51a4e83a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6485e01639aa8da9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d15828fc3cafb8ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25409858eded9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae4444e06b3bb81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051e0b6449eee1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4/Movie Render Graph UE5.4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Movie Render Graph UE5.4 的反向链接列表"
+            }
+          },
+          {
+            "id": "8947e7bb0443b68c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4/Movie Render Graph UE5.4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Movie Render Graph UE5.4 的出链列表"
+            }
+          },
+          {
+            "id": "fc4fafde04161196",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fbeb1b6a484ec6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "7b1bd1aaa3cbca6b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 535.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "71f63af51a4e83a0",
+  "lastOpenFiles": [
+    "Notion/UE Main/UE  learning/UseGit/Git update/Git update.md",
+    "Notion/UE Main/UE  learning/UseGit/Source tree 更换库地址教程/Source tree 更换库地址教程.md",
+    "Notion/UE Main/UE  learning/UseGit/UseGit.md",
+    "Notion/UE Main/DLSS/DLSS示例UI简单解析/DLSS示例UI简单解析.md",
+    "Notion/UE Main/DLSS/DLSS.md",
+    "欢迎.md",
+    "Notion/Image/FirstContact.jpg",
+    "Notion/Image",
+    "Notion/UE Main/Python/Python Learn Task/第5-6周：网络编程与高级特性.md",
+    "Notion/UE Main/Python/Python Learn Task/第7-8周：数据分析与可视化.md",
+    "Notion/UE Main/Python/Python Learn Task/第9-10周：机器学习与深度学习.md",
+    "Notion/UE Main/Python/Python Learn Task/第3-4周：中级Python.md",
+    "Notion/UE Main/Python/Python Learn Task/第11-12周：综合实践与项目开发.md",
+    "Notion/UE Main/Python/Python Learn Task/第1-2周：Python基础/第1-2周：Python基础.md",
+    "Notion/Image/Untitled 3 10.png",
+    "Notion/Image/Untitled 2 13.png",
+    "Notion/Image/Untitled 1 13.png",
+    "Notion/Image/Untitled 25.png",
+    "Notion/Image/Untitled 13 3.png",
+    "Notion/Image/Untitled 12 3.png",
+    "Notion/Image/Untitled 11 3.png",
+    "Notion/Image/Untitled 10 4.png",
+    "Notion/Image/Untitled 9 4.png",
+    "Notion/UE Main/Python/Python Learn Task/Python Learn Task.md",
+    "Notion/UE Main/UE5 PCG 学习笔记/Mass Entity.md",
+    "Notion/UE Main/UE5 PCG 学习笔记/PCG 实践/PCG 实践.md",
+    "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4/Movie Render Graph UE5.4.md",
+    "Notion/UE Main/UE  learning/UE 透明材质的理解和应用.md",
+    "Notion/UE Main/UE  learning/UE5.3 Tessellation/UE5.3 Tessellation.md",
+    "Notion/UE Main/UE  learning/Editor Utility Widget/Editor Utility Widget.md",
+    "Notion/UE Main/UE  learning/Brushify Landscape Material 拆解/Brushify Landscape Material 拆解.md",
+    "Notion/UE Main/UE  learning/Runtime Virtual Texture/Runtime Virtual Texture.md",
+    "Notion/UE Main/UE  learning/Niagara Learn/Niagara Learn.md",
+    "Notion/UE Main/UE  learning/Exposure/Exposure.md",
+    "Notion/UE Main/UE  learning/Blender GIS.md",
+    "Untitled.txt",
+    "Notion/UE Main/UE  learning/黑洞/黑洞.md",
+    "Notion/UE Main/UE  learning/shader缓存路径.md",
+    "Notion/UE Main/Python/Python Learn Task/第1-2周：Python基础",
+    "Notion/UE Main/UE  learning/UseGit/Git update",
+    "Notion/UE Main/UE  learning/UseGit/Source tree 更换库地址教程",
+    "Notion/UE Main/Python/Python Learn Task",
+    "Notion/UE Main/DLSS/DLSS示例UI简单解析",
+    "Notion/UE Main/UE5 PCG 学习笔记/PCG 实践",
+    "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4",
+    "Notion/UE Main/UE  learning/UE5.3 Tessellation"
+  ]
+}
