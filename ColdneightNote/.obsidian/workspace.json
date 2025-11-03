@@ -11,10 +11,14 @@
             "id": "0601c0d84160650f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notion/UE Main/GLSL  HLSL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "GLSL  HLSL"
             }
           }
         ]
@@ -161,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +180,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "71f63af51a4e83a0",
+  "active": "0601c0d84160650f",
   "lastOpenFiles": [
+    "Notion/UE Main/Movie Render Queue/Movie Render Queue.md",
+    "Notion/UE Main/UE Main.md",
+    "Notion/UE Main/Untitled.md",
+    "Notion/UE Main/Math.md",
+    "Notion/UE Main/Just ask.md",
+    "Notion/UE Main/Python/Python.md",
+    "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4/Movie Render Graph UE5.4.md",
+    "Notion/UE Main/DLSS/DLSS.md",
+    "Notion/UE Main/DLSS/DLSS示例UI简单解析/DLSS示例UI简单解析.md",
+    "Notion/UE Main/优化&性能分析——长线计划/UE性能分析工具.md",
+    "Notion/UE Main/优化&性能分析——长线计划/安吉level 减drawcall 记录/安吉level 减drawcall 记录.md",
+    "Notion/UE Main/优化&性能分析——长线计划/优化&性能分析——长线计划.md",
+    "Notion/UE Main/优化&性能分析——长线计划/减少Draw Call.md",
     "Notion/UE Main/UE  learning/UseGit/Git update/Git update.md",
     "Notion/UE Main/UE  learning/UseGit/Source tree 更换库地址教程/Source tree 更换库地址教程.md",
     "Notion/UE Main/UE  learning/UseGit/UseGit.md",
-    "Notion/UE Main/DLSS/DLSS示例UI简单解析/DLSS示例UI简单解析.md",
-    "Notion/UE Main/DLSS/DLSS.md",
     "欢迎.md",
     "Notion/Image/FirstContact.jpg",
     "Notion/Image",
@@ -204,18 +219,7 @@
     "Notion/UE Main/Python/Python Learn Task/Python Learn Task.md",
     "Notion/UE Main/UE5 PCG 学习笔记/Mass Entity.md",
     "Notion/UE Main/UE5 PCG 学习笔记/PCG 实践/PCG 实践.md",
-    "Notion/UE Main/Movie Render Queue/Movie Render Graph UE5.4/Movie Render Graph UE5.4.md",
-    "Notion/UE Main/UE  learning/UE 透明材质的理解和应用.md",
-    "Notion/UE Main/UE  learning/UE5.3 Tessellation/UE5.3 Tessellation.md",
-    "Notion/UE Main/UE  learning/Editor Utility Widget/Editor Utility Widget.md",
-    "Notion/UE Main/UE  learning/Brushify Landscape Material 拆解/Brushify Landscape Material 拆解.md",
-    "Notion/UE Main/UE  learning/Runtime Virtual Texture/Runtime Virtual Texture.md",
-    "Notion/UE Main/UE  learning/Niagara Learn/Niagara Learn.md",
-    "Notion/UE Main/UE  learning/Exposure/Exposure.md",
-    "Notion/UE Main/UE  learning/Blender GIS.md",
     "Untitled.txt",
-    "Notion/UE Main/UE  learning/黑洞/黑洞.md",
-    "Notion/UE Main/UE  learning/shader缓存路径.md",
     "Notion/UE Main/Python/Python Learn Task/第1-2周：Python基础",
     "Notion/UE Main/UE  learning/UseGit/Git update",
     "Notion/UE Main/UE  learning/UseGit/Source tree 更换库地址教程",
